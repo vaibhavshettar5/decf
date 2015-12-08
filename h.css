@@ -1,0 +1,9 @@
+body{
+  background: url("img/coding.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-image: : rgba(200,200,200,0);
+height: 100%;
+  widows: 100%;
